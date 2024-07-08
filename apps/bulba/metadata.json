@@ -15,6 +15,11 @@
     {
       "name": "bulba.clkinfo.js",
       "url": "clkinfo.js"
+    },
+    {
+      "name": "bulba.img",
+      "url": "app-icon.js",
+      "evaluate": true
     }
   ]
 }

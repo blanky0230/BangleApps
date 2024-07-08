@@ -12,7 +12,7 @@ const bulba = {
         name: "itm1",
         get: function () {
           return {
-            text: " ",
+            text: "x",
             // v : 10, min : 0, max : 100, - optional
             img: bulba
           };
@@ -23,4 +23,4 @@ const bulba = {
       }
     ]
   };
-}); // must not have a semi-colon!
+}) // must not have a semi-colon!
