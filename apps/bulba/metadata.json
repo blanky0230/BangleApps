@@ -1,0 +1,20 @@
+{
+  "id": "bulba",
+  "name": "My clock info's human readable name",
+  "shortName": "Short Name",
+  "version": "0.01",
+  "description": "A detailed description of my clock info",
+  "icon": "app.png",
+  "type": "clkinfo",
+  "tags": "clkinfo",
+  "supports": [
+    "BANGLEJS2"
+  ],
+  "readme": "README.md",
+  "storage": [
+    {
+      "name": "bulba.clkinfo.js",
+      "url": "clkinfo.js"
+    }
+  ]
+}
